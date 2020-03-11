@@ -1,0 +1,11 @@
+name: Dartris
+description: A simple tetris in Dart.
+# version: 1.0.0
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+#dependencies:
+#  path: ^1.4.1
+dev_dependencies:
+  build_runner: ^1.7.1
+  build_web_compilers: ^2.5.2
+  pedantic: ^1.8.0+1
