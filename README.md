@@ -1,4 +1,4 @@
-# 🏳️‍🌈 Dartris
+# Dartris
 
 🏁🔮 The goal of this project is writing a simple Tetris Game (client side) in Dart.
 
